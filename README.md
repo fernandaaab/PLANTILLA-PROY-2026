@@ -8,7 +8,7 @@ Repositorio del grupo 1 para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 | ----------------- | -------------- | ------------------------ | ------------ |
 | Alvaro Campos | @alvarokokeee      | acamposro@usm.cl | 202630031-5 |
 | Joaquin Silva  | @Joacosilva0      | jsilvapa@usm.cl| 202630020-k |
-| Nombre3 Apellido3 | @usuario3      | nombre3.apellido3@usm.cl | 200000000000 |
+| Fernanda Barrientos | @fernandaaab      | fbarrientos@usm.cl | 202630011-0 |
 | Julianna Moraga | @Julii-m      | jmoragaa@usm.cl | 202630014-5 |
 
 ## 📝 Descripción breve del proyecto
