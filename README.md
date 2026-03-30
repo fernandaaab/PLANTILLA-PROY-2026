@@ -28,7 +28,7 @@ Repositorio del grupo 1 para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 
 ## 🧩 Alcance del proyecto
 
-> *Definir qué aspectos cubre el proyecto y qué queda fuera del alcance (limitaciones).*
+>   Este proyecto esta pensado para dentro de la USM, la idea es que llegue a ser util para cada estudiante/funcionario de la Universidad
 
 ---
 
