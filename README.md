@@ -13,7 +13,8 @@ Repositorio del grupo 1 para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 
 ## 📝 Descripción breve del proyecto
 
-> Este proyecto es una idea la cual tiene como proposito simplificar la vida de los estudiantes a traves de una pagina web la cual se encarga de que los estudiantes puedan solicitar todo tipo de alimentos y bebestibles que cada establecimiento ofrezca, de esta forma ahorrando tiempo a los estudiantes que no tengan el tiempo suficiente entre clases y tienen la necesidad de comer o de tomar algo. 
+> Este proyecto es una idea cuyo propósito es simplificar la vida de los estudiantes a través de una página web que les permita solicitar todo tipo de alimentos y bebidas que cada establecimiento ofrezca. De esta forma, se busca ahorrar tiempo a aquellos estudiantes que no cuentan con el tiempo suficiente entre clases y tienen la necesidad de comer o tomar algo.
+
 
 ---
 
@@ -31,7 +32,10 @@ Repositorio del grupo 1 para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 
 ## 🧩 Alcance del proyecto
 
->   Este proyecto esta pensado para ser utilizado dentro de la USM, en tdodo momento que el estudiante necesite, la idea es que llegue a ser util para cada estudiante/funcionario de la Universidad y lograr que se ahorre el mayor tiempo posible. Una limitacion que existe en nuestro poyecto es que no es posible incluir un sistema de pago dentro de la pagina web, lo que finalmente harua mucho mas rapido el preceso de compra de productos.
+>   Este proyecto está pensado para ser utilizado dentro de la USM en todo momento en que el estudiante lo necesite. La idea es que llegue a ser útil para cada estudiante y funcionario de la universidad, logrando así ahorrar la mayor cantidad de tiempo posible.
+
+Una limitación que existe en nuestro proyecto es que no es posible incluir un sistema de pago dentro de la página web, lo que finalmente haría mucho más rápido el proceso de compra de productos.
+
 
 ---
 
