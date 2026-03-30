@@ -20,9 +20,12 @@ Repositorio del grupo 1 para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 ## 🎯 Objetivos
 
 - Objetivo general:
-  - *Describir el objetivo principal del proyecto.*
+  - Facilitar la compra de alimentos en los kioskos, descongestionando el flujo de pesonas al momento de comprar. Optimizando el tiempo de los estudiantes, profesores y funcionarios. 
 - Objetivos específicos:
-  - *Listar objetivos concretos que permitirán alcanzar el objetivo general.*
+  1. Programar una página web.
+  2. Diseño gráfico de la página web.
+  3. Incluir inventario de los diferentes quioscos.
+  4. Implementar Filacero en la comunidad (Casa Central).
 
 ---
 
