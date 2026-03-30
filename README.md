@@ -13,7 +13,7 @@ Repositorio del grupo 1 para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 
 ## 📝 Descripción breve del proyecto
 
-> Este proyecto es una idea la cual tiene como proposito simplificar la vida de los estudiantes a traves de una pagina web la cual se encarga de incluir a todos los quioscos de la universidad Federico Santa Maria, en donde los estudiantes podran solicitar todo tipo de alimentos que el establecimiento ofrezca a traves de esta pagina web, sin necesidad de hacer las largas filas que se hacen en los quisocos mencionados. 
+> Este proyecto es una idea la cual tiene como proposito simplificar la vida de los estudiantes a traves de una pagina web la cual se encarga de que los estudiantes puedan solicitar todo tipo de alimentos y bebestibles que cada establecimiento ofrezca, de esta forma ahorrando tiempo a los estudiantes que no tengan el tiempo suficiente entre clases y tienen la necesidad de comer o de tomar algo. 
 
 ---
 
