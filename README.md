@@ -28,7 +28,7 @@ Repositorio del grupo 1 para el proyecto del ramo *Proyecto Inicial (IWG400)* â€
 
 ## ðŸ§© Alcance del proyecto
 
->   Este proyecto esta pensado para dentro de la USM, la idea es que llegue a ser util para cada estudiante/funcionario de la Universidad
+>   Este proyecto esta pensado para dentro de la USM, la idea es que llegue a ser util para cada estudiante/funcionario de la Universidad y lograr que se ahorre el mayor tiempo posible.
 
 ---
 
