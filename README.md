@@ -42,10 +42,7 @@ Una limitación que existe en nuestro proyecto es que no es posible incluir un s
 ## 🛠️ Tecnologías y herramientas utilizadas
 
 - Lenguaje(s) de programación:
-  - Ej: Python, JavaScript, C++
-- Microcontroladores
-  - Arduino UNO Q, ESP32
-- Sensores
+  - Python, JavaScript y Gemini.
 
 ---
 
