@@ -79,7 +79,7 @@ Una limitación que existe en nuestro proyecto es que no es posible incluir un s
 ## 📅 Cronograma de trabajo
 
 [Carta Gantt](https://google.com)
-
+- https://usmcl-my.sharepoint.com/:x:/g/personal/jsilvapa_usm_cl/IQC5Aoh3ogjrTJvcVkKL6fXFAaAwK-dLrdkADH6upyXzTjE?e=l2g6h3
 ---
 
 ## 📚 Bibliografía
