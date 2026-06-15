@@ -49,13 +49,94 @@ Una limitación que existe en nuestro proyecto es que no es posible incluir un s
 ## 🗂️ Estructura del repositorio
 
 ```
-/PROY-2026-GRUPOX
-│
-├── docs/               # Documentación general y reportes
-├── src/                # Código fuente del proyecto
-├── tests/              # Casos de prueba
-├── assets/             # Imágenes, diagramas, etc.
-└── README.md           # Este archivo
+C:\USERS\ALONS\DOWNLOADS\FILACERO_FINAL\FILACERO
+│   db.sqlite3
+│   manage.py
+│   README.md
+│   requirements.txt
+│   
+├───config
+│   │   asgi.py
+│   │   settings.py
+│   │   urls.py
+│   │   wsgi.py
+│   │   __init__.py
+│   │   
+│   └───__pycache__
+│           settings.cpython-311.pyc
+│           urls.cpython-311.pyc
+│           wsgi.cpython-311.pyc
+│           __init__.cpython-311.pyc
+│           
+├───static
+│   ├───css
+│   │       style.css
+│   │       
+│   └───js
+│           index.js
+│           
+├───templates
+│   │   base.html
+│   │   index.html
+│   │   
+│   ├───adminpanel
+│   │       comercios.html
+│   │       dashboard.html
+│   │       usuarios.html
+│   │       
+│   ├───auth
+│   │       login.html
+│   │       registro.html
+│   │       
+│   ├───carrito
+│   │       carrito.html
+│   │       
+│   ├───comercio
+│   │       dashboard.html
+│   │       pedidos.html
+│   │       productos.html
+│   │       producto_form.html
+│   │       
+│   └───usuario
+│           inicio.html
+│           pedidos.html
+│           
+└───web
+    │   admin.py
+    │   apps.py
+    │   data.py
+    │   forms.py
+    │   models.py
+    │   tests.py
+    │   views.py
+    │   __init__.py
+    │   
+    ├───management
+    │   │   __init__.py
+    │   │   
+    │   └───commands
+    │           seed.py
+    │           __init__.py
+    │           
+    ├───migrations
+    │   │   0001_initial.py
+    │   │   0002_remove_pedido_productos_alter_pedido_usuario_and_more.py
+    │   │   0003_carrito_itemcarrito.py
+    │   │   __init__.py
+    │   │   
+    │   └───__pycache__
+    │           0001_initial.cpython-311.pyc
+    │           0002_remove_pedido_productos_alter_pedido_usuario_and_more.cpython-311.pyc
+    │           0003_carrito_itemcarrito.cpython-311.pyc
+    │           __init__.cpython-311.pyc
+    │           
+    └───__pycache__
+            admin.cpython-311.pyc
+            apps.cpython-311.pyc
+            forms.cpython-311.pyc
+            models.cpython-311.pyc
+            views.cpython-311.pyc
+            __init__.cpython-311.pyc
 ```
 
 ---
