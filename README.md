@@ -42,7 +42,7 @@ Una limitación que existe en nuestro proyecto es que no es posible incluir un s
 ## 🛠️ Tecnologías y herramientas utilizadas
 
 - Lenguaje(s) de programación:
-  - Python, JavaScript y Gemini.
+  - Python, Visual Studio Code, Django, Chatgpt y Devin Ai.
 
 ---
 
