@@ -143,17 +143,21 @@ C:\USERS\ALONS\DOWNLOADS\FILACERO_FINAL\FILACERO
 
 ## 🚀 Instrucciones de Instalacion y Uso
 
-
-1. **Clonar el repositorio:** `git clone ...`
-2. **Dependencias:** Listar qué librerías necesitan (ej: `pip install -r requirements.txt` o librerías de Arduino).
-3. **Ejecución:** Cómo se corre el código principal.
+1. Instalar Visual Studio Code, Python y Django.
+2. Descargar el zip predeterminado del proyecto.
+3. Con ciertos comandos hacer correr el servidor.
+   Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+   .venv\Scripts\Activate.ps1
+   pip install -r requirements.txt
+   python manage.py migrate
+   python manage.py seed
+   python manage.py runserver
+4. Abrir página web mediante el link que proporciona el Visual Studio Code.
 
 ---
 
 ## 📐 Diseño del Sistema
-![Diagrama de Conexiones](./assets/diagrama_conexiones.png)
-
-*Explicacion grafica de como es la conexion entre el microcontrolador y los sensores*
+No se utilizó ningun hardware en este proyecto
 
 ---
 
