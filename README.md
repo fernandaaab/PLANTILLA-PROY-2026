@@ -157,7 +157,7 @@ C:\USERS\ALONS\DOWNLOADS\FILACERO_FINAL\FILACERO
 ---
 
 ## 📐 Diseño del Sistema
-No se utilizó ningun hardware en este proyecto
+No se utilizó hardware para el desarrollo de este proyecto.
 
 ---
 
