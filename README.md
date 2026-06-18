@@ -175,4 +175,9 @@ https://app.devin.ai/sessions/16b3d498be7846b3bb6ae939a8183ee1?tab=DEPLOY_PYTHON
 
 ## 📌 Notas adicionales
 
-> *Espacio para dejar cualquier comentario útil, como pendientes, acuerdos del grupo, consideraciones especiales, etc.*
+- Video demostración
+
+Para ver el funcionamiento de la pagina web, acceda al siguiente enlace:
+
+Video del proyecto:
+https://youtu.be/OvWPdG-vjG4
